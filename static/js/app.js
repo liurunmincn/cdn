@@ -1,5 +1,5 @@
 "use strict";
-console.log(' %c Theme Cuteen v4.8(20210911) %c https://blog.zwying.com/ ', 'color: #fff; background: #2dce89; padding:5px;', 'background: #1c2b36; padding:5px;');
+console.log("\n %c  Theme blog v4.8(20210911) Powered by 沐の北 | https://liurunmin.cn/", "color:#fff;background: #006eff;padding:5px;border-radius: 10px;");
 //----------------------------------------添加、删除Class---------------------------------------
 function hasClass(obj, cls) {
     return obj.className.match(new RegExp('(\\s|^)' + cls + '(\\s|$)'));
